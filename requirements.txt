@@ -1,0 +1,8 @@
+websockets        # flux en direct des plateformes
+aiohttp           # API REST (listes de contrats, comptes Hyperliquid)
+requests          # bougies de prix pour l'interface
+pandas            # lecture du registre et des positions
+numpy
+customtkinter     # interface graphique (python Dashboard.py)
+pycairo           # dessin des graphiques (rivière, carte des niveaux)
+pillow            # affichage des dessins dans la fenêtre

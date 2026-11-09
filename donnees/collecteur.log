@@ -1,0 +1,63 @@
+2026-10-30 01:42:33 INFO collecte : binance, bybit, okx, bitget, gate, htx, kraken, deribit, dydx, hyperliquid
+2026-10-30 01:43:34 INFO 66 liquidations enregistrées — Binance 24, Bybit 5, OKX 21, Bitget 4, Gate 3, HTX 0, Kraken 9, Deribit 0, dYdX 0, Hyperliquid 0 (déconnectée) — Hyperliquid : 0 comptes lus, 0 positions, 0 lectures/min
+2026-10-30 01:44:34 INFO 227 liquidations enregistrées — Binance 61, Bybit 7, OKX 124, Bitget 8, Gate 6, HTX 0, Kraken 21, Deribit 0, dYdX 0, Hyperliquid 0 (déconnectée) — Hyperliquid : 0 comptes lus, 0 positions, 0 lectures/min
+2026-10-30 01:45:03 INFO durée écoulée
+2026-10-30 01:45:06 INFO collecte arrêtée : 373 liquidations enregistrées
+2026-10-30 01:46:25 INFO collecte : binance, bybit, okx, bitget, gate, htx, kraken, deribit, dydx, hyperliquid
+2026-10-30 01:46:26 INFO hyperliquid : 0 comptes connus, 0 déjà lus
+2026-10-30 01:46:29 INFO hyperliquid : classement importé, 24002 comptes de plus de 1000 $
+2026-10-30 01:47:25 INFO 55 liquidations enregistrées — Binance 20, Bybit 10, OKX 3, Bitget 8, Gate 5, HTX 0, Kraken 9, Deribit 0, dYdX 0, Hyperliquid 0 — Hyperliquid : 261 comptes lus, 3953 positions, 368 lectures/min
+2026-10-30 01:48:25 INFO 234 liquidations enregistrées — Binance 63, Bybit 20, OKX 14, Bitget 12, Gate 11, HTX 0, Kraken 114, Deribit 0, dYdX 0, Hyperliquid 0 — Hyperliquid : 416 comptes lus, 5312 positions, 384 lectures/min
+2026-10-30 01:48:27 INFO hyperliquid : 4 teneurs de marché suivis en plus des coffres HLP
+2026-10-30 01:49:25 INFO 295 liquidations enregistrées — Binance 91, Bybit 26, OKX 21, Bitget 22, Gate 13, HTX 0, Kraken 122, Deribit 0, dYdX 0, Hyperliquid 0 — Hyperliquid : 583 comptes lus, 6766 positions, 386 lectures/min
+2026-10-30 01:49:55 INFO durée écoulée
+2026-10-30 01:49:58 INFO collecte arrêtée : 305 liquidations enregistrées
+2026-10-30 01:50:35 INFO collecte : binance, bybit, okx, bitget, gate, htx, kraken, deribit, dydx, hyperliquid
+2026-10-30 01:50:37 INFO hyperliquid : 24237 comptes connus, 649 déjà lus
+2026-10-30 01:51:36 INFO 58 liquidations enregistrées — Binance 39, Bybit 8, OKX 6, Bitget 2, Gate 0, HTX 0, Kraken 2, Deribit 0, dYdX 0, Hyperliquid 1 — Hyperliquid : 751 comptes lus, 7371 positions, 379 lectures/min
+2026-10-30 01:52:36 INFO 104 liquidations enregistrées — Binance 60, Bybit 13, OKX 19, Bitget 4, Gate 3, HTX 0, Kraken 4, Deribit 0, dYdX 0, Hyperliquid 1 — Hyperliquid : 861 comptes lus, 7553 positions, 384 lectures/min
+2026-10-30 01:52:37 INFO hyperliquid : 4 teneurs de marché suivis en plus des coffres HLP
+2026-10-30 01:53:36 INFO 243 liquidations enregistrées — Binance 118, Bybit 40, OKX 39, Bitget 13, Gate 17, HTX 1, Kraken 14, Deribit 0, dYdX 0, Hyperliquid 1 — Hyperliquid : 967 comptes lus, 7794 positions, 384 lectures/min
+2026-10-30 01:54:36 INFO 305 liquidations enregistrées — Binance 146, Bybit 47, OKX 51, Bitget 15, Gate 25, HTX 3, Kraken 17, Deribit 0, dYdX 0, Hyperliquid 1 — Hyperliquid : 1079 comptes lus, 7956 positions, 385 lectures/min
+2026-10-30 01:55:36 INFO 357 liquidations enregistrées — Binance 174, Bybit 51, OKX 63, Bitget 19, Gate 27, HTX 3, Kraken 18, Deribit 0, dYdX 0, Hyperliquid 2 — Hyperliquid : 1221 comptes lus, 8396 positions, 385 lectures/min
+2026-10-30 01:56:36 INFO 397 liquidations enregistrées — Binance 198, Bybit 53, OKX 66, Bitget 19, Gate 29, HTX 3, Kraken 27, Deribit 0, dYdX 0, Hyperliquid 2 — Hyperliquid : 1335 comptes lus, 8927 positions, 386 lectures/min
+2026-10-30 01:57:36 INFO 416 liquidations enregistrées — Binance 203, Bybit 55, OKX 69, Bitget 21, Gate 29, HTX 3, Kraken 34, Deribit 0, dYdX 0, Hyperliquid 2 — Hyperliquid : 1470 comptes lus, 9850 positions, 385 lectures/min
+2026-10-30 01:58:37 INFO 446 liquidations enregistrées — Binance 212, Bybit 56, OKX 74, Bitget 23, Gate 29, HTX 3, Kraken 47, Deribit 0, dYdX 0, Hyperliquid 2 — Hyperliquid : 1605 comptes lus, 10244 positions, 385 lectures/min
+2026-10-30 01:59:37 INFO 502 liquidations enregistrées — Binance 237, Bybit 63, OKX 76, Bitget 24, Gate 39, HTX 4, Kraken 57, Deribit 0, dYdX 0, Hyperliquid 2 — Hyperliquid : 1745 comptes lus, 11995 positions, 387 lectures/min
+2026-10-30 02:00:37 INFO 645 liquidations enregistrées — Binance 285, Bybit 78, OKX 100, Bitget 47, Gate 60, HTX 7, Kraken 66, Deribit 0, dYdX 0, Hyperliquid 2 — Hyperliquid : 1866 comptes lus, 12913 positions, 386 lectures/min
+2026-10-30 02:01:37 INFO 721 liquidations enregistrées — Binance 318, Bybit 94, OKX 108, Bitget 51, Gate 66, HTX 7, Kraken 75, Deribit 0, dYdX 0, Hyperliquid 2 — Hyperliquid : 1950 comptes lus, 13239 positions, 386 lectures/min
+2026-10-30 02:02:37 INFO 1034 liquidations enregistrées — Binance 492, Bybit 119, OKX 153, Bitget 81, Gate 93, HTX 8, Kraken 86, Deribit 0, dYdX 0, Hyperliquid 2 — Hyperliquid : 2059 comptes lus, 13750 positions, 386 lectures/min
+2026-10-30 02:03:37 INFO 1266 liquidations enregistrées — Binance 602, Bybit 131, OKX 188, Bitget 103, Gate 127, HTX 9, Kraken 104, Deribit 0, dYdX 0, Hyperliquid 2 — Hyperliquid : 2167 comptes lus, 14508 positions, 385 lectures/min
+2026-10-30 02:03:45 WARNING dydx : v4_trades 2 : ConnectionClosedError no close frame received or sent
+2026-10-30 02:04:38 INFO 1518 liquidations enregistrées — Binance 738, Bybit 153, OKX 229, Bitget 119, Gate 150, HTX 10, Kraken 117, Deribit 0, dYdX 0, Hyperliquid 2 — Hyperliquid : 2279 comptes lus, 15163 positions, 386 lectures/min
+2026-10-30 02:05:38 INFO 1636 liquidations enregistrées — Binance 784, Bybit 166, OKX 244, Bitget 128, Gate 158, HTX 11, Kraken 143, Deribit 0, dYdX 0, Hyperliquid 2 — Hyperliquid : 2392 comptes lus, 15574 positions, 384 lectures/min
+2026-10-30 02:06:38 INFO 2149 liquidations enregistrées — Binance 988, Bybit 255, OKX 292, Bitget 191, Gate 222, HTX 15, Kraken 184, Deribit 0, dYdX 0, Hyperliquid 2 — Hyperliquid : 2487 comptes lus, 15864 positions, 386 lectures/min
+2026-10-30 02:07:38 INFO 2316 liquidations enregistrées — Binance 1063, Bybit 267, OKX 317, Bitget 209, Gate 243, HTX 16, Kraken 199, Deribit 0, dYdX 0, Hyperliquid 2 — Hyperliquid : 2583 comptes lus, 16007 positions, 385 lectures/min
+2026-10-30 02:08:38 INFO 2408 liquidations enregistrées — Binance 1120, Bybit 271, OKX 329, Bitget 214, Gate 246, HTX 16, Kraken 210, Deribit 0, dYdX 0, Hyperliquid 2 — Hyperliquid : 2677 comptes lus, 16242 positions, 386 lectures/min
+2026-10-30 02:09:38 INFO 2453 liquidations enregistrées — Binance 1148, Bybit 276, OKX 334, Bitget 216, Gate 249, HTX 17, Kraken 211, Deribit 0, dYdX 0, Hyperliquid 2 — Hyperliquid : 2776 comptes lus, 16665 positions, 385 lectures/min
+2026-10-30 02:10:38 INFO 2500 liquidations enregistrées — Binance 1173, Bybit 280, OKX 336, Bitget 218, Gate 260, HTX 17, Kraken 214, Deribit 0, dYdX 0, Hyperliquid 2 — Hyperliquid : 2874 comptes lus, 17305 positions, 385 lectures/min
+2026-10-30 02:11:38 INFO 2528 liquidations enregistrées — Binance 1188, Bybit 281, OKX 344, Bitget 218, Gate 260, HTX 17, Kraken 218, Deribit 0, dYdX 0, Hyperliquid 2 — Hyperliquid : 2976 comptes lus, 17576 positions, 385 lectures/min
+2026-10-30 02:12:38 INFO 2581 liquidations enregistrées — Binance 1223, Bybit 283, OKX 349, Bitget 224, Gate 264, HTX 18, Kraken 218, Deribit 0, dYdX 0, Hyperliquid 2 — Hyperliquid : 3069 comptes lus, 17834 positions, 385 lectures/min
+2026-10-30 02:13:39 INFO 2732 liquidations enregistrées — Binance 1281, Bybit 300, OKX 368, Bitget 230, Gate 268, HTX 18, Kraken 265, Deribit 0, dYdX 0, Hyperliquid 2 — Hyperliquid : 3164 comptes lus, 17943 positions, 385 lectures/min
+2026-10-30 02:14:39 INFO 2795 liquidations enregistrées — Binance 1303, Bybit 302, OKX 373, Bitget 235, Gate 271, HTX 19, Kraken 289, Deribit 0, dYdX 0, Hyperliquid 3 — Hyperliquid : 3260 comptes lus, 18084 positions, 385 lectures/min
+2026-10-30 02:15:39 INFO 2811 liquidations enregistrées — Binance 1306, Bybit 305, OKX 382, Bitget 235, Gate 271, HTX 19, Kraken 289, Deribit 0, dYdX 0, Hyperliquid 4 — Hyperliquid : 3355 comptes lus, 18307 positions, 385 lectures/min
+2026-10-30 02:16:39 INFO 2858 liquidations enregistrées — Binance 1322, Bybit 311, OKX 394, Bitget 237, Gate 280, HTX 21, Kraken 289, Deribit 0, dYdX 0, Hyperliquid 4 — Hyperliquid : 3449 comptes lus, 18382 positions, 386 lectures/min
+2026-10-30 02:17:40 INFO 2922 liquidations enregistrées — Binance 1342, Bybit 325, OKX 415, Bitget 240, Gate 285, HTX 21, Kraken 290, Deribit 0, dYdX 0, Hyperliquid 4 — Hyperliquid : 3536 comptes lus, 18521 positions, 384 lectures/min
+2026-10-30 02:18:40 INFO 2966 liquidations enregistrées — Binance 1362, Bybit 328, OKX 425, Bitget 240, Gate 292, HTX 21, Kraken 294, Deribit 0, dYdX 0, Hyperliquid 4 — Hyperliquid : 3614 comptes lus, 18742 positions, 386 lectures/min
+2026-10-30 02:19:40 INFO 3028 liquidations enregistrées — Binance 1386, Bybit 336, OKX 435, Bitget 249, Gate 295, HTX 21, Kraken 302, Deribit 0, dYdX 0, Hyperliquid 4 — Hyperliquid : 3715 comptes lus, 19083 positions, 386 lectures/min
+2026-10-30 02:20:41 INFO 3061 liquidations enregistrées — Binance 1401, Bybit 338, OKX 447, Bitget 249, Gate 296, HTX 21, Kraken 305, Deribit 0, dYdX 0, Hyperliquid 4 — Hyperliquid : 3805 comptes lus, 19183 positions, 385 lectures/min
+2026-10-30 02:21:08 INFO arrêt demandé par l'interface
+2026-10-30 02:21:09 INFO collecte arrêtée : 3074 liquidations enregistrées
+2026-10-30 02:21:43 INFO collecte : binance, bybit, okx, bitget, gate, htx, kraken, deribit, dydx, hyperliquid
+2026-10-30 02:21:44 INFO hyperliquid : 24663 comptes connus, 3869 déjà lus
+2026-10-30 02:23:45 INFO hyperliquid : 4 teneurs de marché suivis en plus des coffres HLP
+2026-10-30 02:24:17 INFO arrêt demandé (bouton de l'interface ou main.py arreter)
+2026-10-30 02:24:20 INFO collecte arrêtée : 233 liquidations enregistrées
+2026-10-30 02:30:26 INFO collecte : deribit, hyperliquid (sans les positions)
+2026-10-30 02:31:11 INFO durée écoulée
+2026-10-30 02:31:11 INFO collecte arrêtée : 0 liquidations enregistrées
+2026-10-31 00:03:48 INFO collecte : binance, bybit, okx, bitget, gate, htx, kraken, deribit, dydx, hyperliquid
+2026-10-31 00:03:50 INFO hyperliquid : 24677 comptes connus, 4100 déjà lus
+2026-10-31 00:05:51 INFO hyperliquid : 4 teneurs de marché suivis en plus des coffres HLP
+2026-10-31 00:12:02 INFO arrêt demandé (bouton de l'interface ou main.py arreter)
+2026-10-31 00:12:05 INFO collecte arrêtée : 224 liquidations enregistrées

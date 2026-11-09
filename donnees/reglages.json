@@ -1,0 +1,45 @@
+{
+  "sources": {
+    "binance": true,
+    "bybit": true,
+    "okx": true,
+    "bitget": true,
+    "gate": true,
+    "htx": true,
+    "kraken": true,
+    "deribit": true,
+    "dydx": true,
+    "hyperliquid": true
+  },
+  "positions_hyperliquid": true,
+  "arreter_en_fermant": true,
+  "poids_minute_hyperliquid": 1100,
+  "interface": {
+    "page": "direct",
+    "direct": {
+      "fenetre": "15 min",
+      "taille": "Tout",
+      "vue": "Volcan",
+      "actif": "BTC",
+      "plateformes": [
+        "binance",
+        "bitget",
+        "bybit",
+        "deribit",
+        "dydx",
+        "gate",
+        "htx",
+        "hyperliquid",
+        "kraken",
+        "okx"
+      ]
+    },
+    "niveaux": {
+      "coin": "BTC",
+      "plage": "±10 %",
+      "taille": "Toutes",
+      "marge": "Toutes",
+      "fraicheur": "< 15 min"
+    }
+  }
+}
